@@ -14,10 +14,6 @@ I'm Shubham Jain, a passionate water resources engineer and a PhD candidate at T
 
 📫 **Contact Me** - You can connect with me through GitHub or reach out via email at [shubhamjain0915@tamu.edu](mailto:shubhamjain0915@tamu.edu). Let's exchange ideas and work together to make a positive impact on water resource management!
 
-📈 **GitHub Stats**
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamjain15&show_icons=true&theme=dark)](https://github.com/shubhamjain15)
-
 🌐 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjain0915-blue)](https://www.linkedin.com/in/shubhamjain0915)
