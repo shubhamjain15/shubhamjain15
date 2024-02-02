@@ -20,8 +20,8 @@ I'm Shubham Jain, a passionate water resources engineer and a PhD candidate at T
 
 🌐 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/shubhamjain0915)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](https://twitter.com/shubh_jayn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shubhamjain0915-blue)](https://www.linkedin.com/in/shubhamjain0915)
+[![Twitter](https://img.shields.io/badge/Twitter-shubh_jayn-blue)](https://twitter.com/shubh_jayn)
 
 Let's work together to harness the power of machine learning for a more sustainable and resilient water future!
 
