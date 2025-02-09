@@ -1,8 +1,6 @@
 ### Hi there! 👋
 
-I'm Shubham Jain, a passionate water resources engineer and a PhD candidate at Texas A&M University. My research focuses on applying machine learning models to solve complex hydrology problems. 
-
-📚 **PhD Candidate** - Currently, I am pursuing my PhD at Texas A&M University, where I am developing interpretable machine learning models to enhance our understanding of hydrological processes.
+I'm Shubham Jain, a passionate water resources engineer with a PhD from Texas A&M University in Water Management and Hydrological Science. My research focuses on applying machine learning models to solve complex hydrology problems. 
 
 💻 **Machine Learning Enthusiast** - I am deeply interested in the application of machine learning techniques to earth system science. I believe that AI can revolutionize how we manage and protect our precious water resources.
 
